@@ -1,9 +1,9 @@
 {
   "bot": {
-    "username": "AFKBot",
-    "host": "example.aternos.me",
-    "port": 19132,
-    "version": "1.26.30",
+    "username": "FEARLESAFK",
+    "host": "fearlessmp.playserver.pro",
+    "port": 27084,
+    "version": "26.50",
     "offline": true,
     "connectTimeoutMs": 9000,
     "viewDistance": 4,
